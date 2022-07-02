@@ -1,9 +1,9 @@
 ######################################################
 # PLEASE CHANGE FOLLOWING CONFIGS ####################
-Twitch_Channel          = 'target_channel_name'
+Twitch_Channel          = 'naotatsur6'
 
-Trans_Username          = 'trans_user_name'
-Trans_OAUTH             = 'oauth_for_trans_user'
+Trans_Username          = 'naotatsusan'
+Trans_OAUTH             = 'oauth:dqjdkcudok3zbahym29rv2z7ltbczd'
 
 #######################################################
 # OPTIONAL CONFIGS ####################################
@@ -13,7 +13,7 @@ Trans_TextColor         = 'GoldenRod'
 lang_TransToHome        = 'ja'
 lang_HomeToOther        = 'en'
 
-Show_ByName             = True
+Show_ByName             = False
 Show_ByLang             = True
 
 Ignore_Lang             = ['']
